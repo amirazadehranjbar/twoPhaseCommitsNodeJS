@@ -491,9 +491,9 @@ Contributions are welcome! Please follow these steps:
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/amirazadehranjbar)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/amir-azadeh-ranjbar-2a1ba5205/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BteY9siD9Roat%2FjEQ3kf2UQ%3D%3D)
-- Email: amirazadehranjbar@gmail.com
+- GitHub: (https://github.com/amirazadehranjbar)
+- LinkedIn: (https://www.linkedin.com/in/amir-azadeh-ranjbar-2a1ba5205/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BteY9siD9Roat%2FjEQ3kf2UQ%3D%3D)
+- Email: (amirazadehranjbar@gmail.com)
 
 ---
 
